@@ -8,3 +8,6 @@ As a manager at an internet retail company, I want a back end for my e-commerce 
 
 ## Walkthrough Video
 This is not a deployable applicaiton. Please visit the following link to view the full functionality of the application. 
+
+## Sources
+Starter code provided by the Northwestern instructional team. Additional support from tutor staff, and criteria guide from https://github.com/jpd61/e-commerce-backend. 
