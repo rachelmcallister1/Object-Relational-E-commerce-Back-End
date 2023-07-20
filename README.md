@@ -9,5 +9,9 @@ As a manager at an internet retail company, I want a back end for my e-commerce 
 ## Walkthrough Video
 This is not a deployable applicaiton. Please visit the following link to view the full functionality of the application. https://www.youtube.com/watch?v=dQ9ekMf1eEI
 
+## Screen Shot
+<img width="1058" alt="screenshot" src="https://github.com/rachelmcallister1/Object-Relational-E-commerce-Back-End/assets/123043102/56f0a286-c42c-4fb4-b92e-e7406b56c060">
+
 ## Sources
-Starter code provided by the Northwestern instructional team. Additional support from tutor staff, and criteria guide from https://github.com/jpd61/e-commerce-backend. 
+Starter code was provided by the Northwestern instructional team. Additional support from tutor staff, and criteria guide from https://github.com/jpd61/e-commerce-backend. 
+
